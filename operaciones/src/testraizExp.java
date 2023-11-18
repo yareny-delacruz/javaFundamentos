@@ -1,9 +1,4 @@
-/* integrantes:
-    Lopez Martínez Gabriel
-    García Zavala Eduardo Gamaliel
-    Molina Najera Eduardo Iván
-    De la Cruz Martínez Fátima
- */
+
 import java.util.Scanner;
 public class testraizExp {
     public static void main(String[] args) {
