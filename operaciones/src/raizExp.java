@@ -1,9 +1,4 @@
-/* integrantes:
-    Lopez Martínez Gabriel
-    García Zavala Eduardo Gamaliel
-    Molina Najera Eduardo Iván
-    De la Cruz Martínez Fátima Yareny
- */
+
 public class raizExp{
     //atributos
     public int num;
